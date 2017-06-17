@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe.config
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.exe
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\bin\Debug\SokobanEditor.pdb
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.Form1.resources
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.exe
+C:\Users\Admin\Documents\GitHub\videosharp\SokobanEditor\SokobanEditor\obj\Debug\SokobanEditor.pdb
