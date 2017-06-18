@@ -1,6 +1,6 @@
 ﻿namespace SokobanEditor
 {
-    partial class Form1
+    partial class SokobanEditor
     {
         /// <summary>
         /// Требуется переменная конструктора.

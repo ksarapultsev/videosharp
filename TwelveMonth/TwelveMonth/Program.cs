@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SokobanEditor
+namespace TwelveMonth
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SokobanEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SokobanEditor());
+            Application.Run(new Form1());
         }
     }
 }

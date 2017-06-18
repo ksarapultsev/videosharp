@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SokobanEditor
 {
-    public partial class Form1 : Form
+    public partial class SokobanEditor : Form
     {
-        public Form1()
+        public SokobanEditor()
         {
             InitializeComponent();
         }
